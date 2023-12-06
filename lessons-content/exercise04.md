@@ -1,9 +1,9 @@
-## [Lesson01](../readme.md) > Exercise04:
+## [Lesson02](../readme.md) > Exercise04:
 
 1. Open class [Main](../app/src/main/java/org/dii/oop/Main.java) in package `main.java.org.dii.oop` and edit the code to call Lesson.run() method from `exercise04`.
 
 
-2. Create your own Student class inside package `main/java/org/dii/oop/exercise04`  with the following requirements.
+2. Create your own Student class inside package `main.java.org.dii.oop.exercise04`  with the following requirements.
     * Instance your student object by getting the student attributes from the command line.
       ```
       // Command for getting the input from a keyboard using `Scanner` class
